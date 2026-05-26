@@ -2,4 +2,4 @@
 
 "Creativity with a technical twist"
 
-We make card games and write short interactive stories for the web.
+We are a small games studio based in London.
